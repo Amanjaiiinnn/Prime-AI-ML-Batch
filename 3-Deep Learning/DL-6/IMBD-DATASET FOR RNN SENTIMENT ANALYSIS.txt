@@ -1,4 +1,0 @@
-IMBD-DATASET HUGGINGFACE
-
-
-https://huggingface.co/datasets/Amanprime/IMBD-DATASET/tree/main

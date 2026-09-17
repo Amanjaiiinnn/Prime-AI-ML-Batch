@@ -1,3 +1,0 @@
-DATASET LINK OF HUGGINGFACE
-
-https://huggingface.co/datasets/Amanprime/CIPAR-10/tree/main
